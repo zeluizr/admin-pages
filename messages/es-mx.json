@@ -562,5 +562,11 @@
   "admin/store.twitterUsername.title": "Nombre de usuario de Twitter",
   "admin/store.twitterUsername.description": "El nombre de usuario que tu empresa utiliza en Twitter. Por ejemplo: VTEXcommerce.",
   "admin/store.twitterCard.title": "Tarjeta de Twitter",
-  "admin/store.twitterCard.description": "Por favor, selecciona el tipo de la tarjeta de Twitter"
+  "admin/store.twitterCard.description": "Por favor, selecciona el tipo de la tarjeta de Twitter",
+  "admin/store.advancedSettings.enablePageNumberTitle.title": "Activar número de página en el metatítulo",
+  "admin/store.advancedSettings.enablePageNumberTitle.description": "Agregar un #{Número} al final del título para evitar el problema de la duplicación del título",
+  "admin/store.advancedSettings.canonicalWithoutUrlParams.title": "URL canónica sin parámetros de URL",
+  "admin/store.advancedSettings.canonicalWithoutUrlParams.description": "Remueve el parámetro de mapa de la URL canónica. Puede causar problemas al acceder a una página con facetas seleccionadas. Prueba con precaución después de la activación.",
+  "admin/store.advancedSettings.removeStoreNameTitle.title": "Remover el nombre de la tienda del título",
+  "admin/store.advancedSettings.removeStoreNameTitle.description": "Remover el nombre de la tienda al final de los metatítulos de productos y categorías"
 }
