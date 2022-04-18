@@ -53,11 +53,6 @@
     "component": "StoreSettings",
     "path": "/admin/app/cms/store"
   },
-  "highlight-overlay.cms": {
-    "component": "HighlightOverlay",
-    "extensible": "vtex",
-    "render": "lazy"
-  },
   "pages-wrapper": {
     "component": "PagesAdminWrapper"
   },
